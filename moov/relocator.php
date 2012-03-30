@@ -1,10 +1,6 @@
 <?php
 /* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 
-require_once dirname(__FILE__) . '/relocator/atom.class.php';
-require_once dirname(__FILE__) . '/relocator/bytearray.class.php';
-require_once dirname(__FILE__) . '/relocator/transform.class.php';
-
 /**
  * Moovrelocator
  *
